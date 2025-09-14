@@ -126,6 +126,7 @@ Y Combinator (YC) is a startup fund and program. Since 2005, YC has invested in 
 | Flipkart |	E-commerce |	2007 |	2012 |	-$307 Million |	$37.6 Billion |	18 |	Unlisted
 | InMobi |	Adtech |	2007 |	2011 |	-$9 Million |	$1 Billion |	10 |	Unlisted
 | MakeMyTrip |	Online Travel |	2000 |	2010 |	-$56 Million |	$2.52 Billion |	9 |	Listed
+| Navi |	 |	 |	 |	 |	 |	 |	
 
 #
 <p align="center">
